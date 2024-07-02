@@ -1,0 +1,16 @@
+*{
+    background-color: bisque;
+}
+
+
+.App{
+
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
